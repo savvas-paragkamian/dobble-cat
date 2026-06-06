@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+  <!-- Custom traffic / training cone, flat style to match OpenMoji. CC0. -->
+  <!-- base -->
+  <ellipse cx="36" cy="60" rx="24" ry="5" fill="#3F3F3F"/>
+  <rect x="12" y="54" width="48" height="8" rx="3" fill="#5A5A5A"/>
+  <!-- cone body -->
+  <path d="M36 10 L52 56 L20 56 Z" fill="#F4900C"/>
+  <!-- white reflective bands -->
+  <path d="M30.5 28 L41.5 28 L43.7 34 L28.3 34 Z" fill="#FFFFFF"/>
+  <path d="M27 41 L45 41 L47.5 48 L24.5 48 Z" fill="#FFFFFF"/>
+  <!-- outline -->
+  <path d="M36 10 L52 56 L20 56 Z" fill="none" stroke="#D67D00" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

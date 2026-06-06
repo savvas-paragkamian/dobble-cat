@@ -1,0 +1,40 @@
+{
+  "_comment": "31 athletics symbols for the Dobble CAT deck (order-5 projective plane). 'source' is 'openmoji' (fetched by hexcode from openmoji.org) or 'custom' (local CC0 SVG in assets/emojis/). Order is fixed: index 0..30 maps to deck.py symbol ids.",
+  "license": {
+    "openmoji": "CC BY-SA 4.0 (https://openmoji.org)",
+    "custom": "CC0 1.0 (drawn for this project)"
+  },
+  "symbols": [
+    { "greek": "Ζάρι",              "english": "dice",          "source": "openmoji", "hexcode": "1F3B2" },
+    { "greek": "Εμπόδιο",           "english": "hurdle",        "source": "openmoji", "hexcode": "E157"  },
+    { "greek": "Σχοινί",            "english": "rope",          "source": "openmoji", "hexcode": "1FAA2" },
+    { "greek": "Στεφάνι",           "english": "wreath",        "source": "openmoji", "hexcode": "1F3F5" },
+    { "greek": "Μπάλα ποδοσφαίρου", "english": "soccer ball",   "source": "openmoji", "hexcode": "26BD"  },
+    { "greek": "Μπάλα τέννις",      "english": "tennis ball",   "source": "openmoji", "hexcode": "1F3BE" },
+    { "greek": "Σκάλα",             "english": "ladder",        "source": "openmoji", "hexcode": "1FA9C" },
+    { "greek": "Κώνος",             "english": "cone",          "source": "custom",   "hexcode": "cone"  },
+    { "greek": "Χρονόμετρο",        "english": "stopwatch",     "source": "openmoji", "hexcode": "23F1"  },
+    { "greek": "Παπούτσι",          "english": "shoe",          "source": "openmoji", "hexcode": "1F45F" },
+    { "greek": "Στάδιο",            "english": "stadium",       "source": "openmoji", "hexcode": "1F3DF" },
+    { "greek": "Μπουκάλι",          "english": "bottle",        "source": "openmoji", "hexcode": "E0CB"  },
+    { "greek": "Αθλητής",           "english": "athlete",       "source": "openmoji", "hexcode": "1F3C3" },
+    { "greek": "Στοπ",              "english": "stop sign",     "source": "openmoji", "hexcode": "1F6D1" },
+    { "greek": "Μπανάνα",           "english": "banana",        "source": "openmoji", "hexcode": "1F34C" },
+    { "greek": "Κύπελλο",           "english": "trophy",        "source": "openmoji", "hexcode": "1F3C6" },
+    { "greek": "Μετάλλιο",          "english": "gold medal",    "source": "openmoji", "hexcode": "1F947" },
+    { "greek": "Φανέλα",            "english": "running shirt", "source": "openmoji", "hexcode": "1F3BD" },
+    { "greek": "Μπάλα μπάσκετ",     "english": "basketball",    "source": "openmoji", "hexcode": "1F3C0" },
+    { "greek": "Μπάλα βόλεϊ",       "english": "volleyball",    "source": "openmoji", "hexcode": "1F3D0" },
+    { "greek": "Δίσκος",            "english": "flying disc",   "source": "openmoji", "hexcode": "1F94F" },
+    { "greek": "Γάντι πυγμαχίας",   "english": "boxing glove",  "source": "openmoji", "hexcode": "1F94A" },
+    { "greek": "Ποδηλάτης",         "english": "cyclist",       "source": "openmoji", "hexcode": "1F6B4" },
+    { "greek": "Κολυμβητής",        "english": "swimmer",       "source": "openmoji", "hexcode": "1F3CA" },
+    { "greek": "Στόχος",            "english": "target",        "source": "openmoji", "hexcode": "1F3AF" },
+    { "greek": "Σταγόνα",           "english": "droplet",       "source": "openmoji", "hexcode": "1F4A7" },
+    { "greek": "Κουδούνι",          "english": "bell",          "source": "openmoji", "hexcode": "1F514" },
+    { "greek": "Τηλεβόας",          "english": "megaphone",     "source": "openmoji", "hexcode": "1F4E3" },
+    { "greek": "Τέρμα",             "english": "goal net",      "source": "openmoji", "hexcode": "1F945" },
+    { "greek": "Σημαία",            "english": "flag in hole",  "source": "openmoji", "hexcode": "26F3"  },
+    { "greek": "Γιο-γιο",           "english": "yo-yo",         "source": "openmoji", "hexcode": "1FA80" }
+  ]
+}

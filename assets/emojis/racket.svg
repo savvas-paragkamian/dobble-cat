@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+  <!-- Custom tennis racket, flat style to match OpenMoji. CC0. -->
+  <defs>
+    <clipPath id="head"><ellipse cx="36" cy="25" rx="13.5" ry="17.5"/></clipPath>
+  </defs>
+  <!-- handle -->
+  <rect x="32.5" y="40" width="7" height="26" rx="3.2" fill="#C26B1B"/>
+  <rect x="32.5" y="56" width="7" height="10" rx="3.2" fill="#9C5314"/>
+  <!-- strings -->
+  <g clip-path="url(#head)" stroke="#9B9B9A" stroke-width="1">
+    <line x1="26" y1="8" x2="26" y2="44"/>
+    <line x1="31" y1="8" x2="31" y2="44"/>
+    <line x1="36" y1="8" x2="36" y2="44"/>
+    <line x1="41" y1="8" x2="41" y2="44"/>
+    <line x1="46" y1="8" x2="46" y2="44"/>
+    <line x1="22" y1="14" x2="50" y2="14"/>
+    <line x1="22" y1="20" x2="50" y2="20"/>
+    <line x1="22" y1="26" x2="50" y2="26"/>
+    <line x1="22" y1="32" x2="50" y2="32"/>
+    <line x1="22" y1="38" x2="50" y2="38"/>
+  </g>
+  <!-- frame -->
+  <ellipse cx="36" cy="25" rx="13.5" ry="17.5" fill="none" stroke="#3B7DD8" stroke-width="3.4"/>
+  <!-- throat -->
+  <path d="M30 40 L33 43 M42 40 L39 43" fill="none" stroke="#3B7DD8" stroke-width="3" stroke-linecap="round"/>
+</svg>

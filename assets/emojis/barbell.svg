@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+  <!-- Custom barbell, flat style to match OpenMoji. CC0. -->
+  <!-- bar -->
+  <rect x="6" y="33" width="60" height="6" rx="3" fill="#9B9B9A" stroke="#3F3F3F" stroke-width="1.2"/>
+  <!-- inner collars -->
+  <rect x="20" y="29" width="5" height="14" rx="1.5" fill="#6A6A6A" stroke="#3F3F3F" stroke-width="1"/>
+  <rect x="47" y="29" width="5" height="14" rx="1.5" fill="#6A6A6A" stroke="#3F3F3F" stroke-width="1"/>
+  <!-- large plates -->
+  <rect x="13" y="19" width="9" height="34" rx="3" fill="#2E3133" stroke="#1A1C1D" stroke-width="1.2"/>
+  <rect x="50" y="19" width="9" height="34" rx="3" fill="#2E3133" stroke="#1A1C1D" stroke-width="1.2"/>
+  <!-- small outer plates -->
+  <rect x="7" y="25" width="7" height="22" rx="2.5" fill="#4A4D4F" stroke="#1A1C1D" stroke-width="1.1"/>
+  <rect x="58" y="25" width="7" height="22" rx="2.5" fill="#4A4D4F" stroke="#1A1C1D" stroke-width="1.1"/>
+</svg>
