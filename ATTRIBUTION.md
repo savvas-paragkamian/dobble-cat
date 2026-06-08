@@ -21,13 +21,13 @@ Emoji used (by OpenMoji hexcode):
 | Ζάρι | dice | 1F3B2 |
 | Εμπόδιο | horse jumping hurdle | E157 |
 | Σχοινί | knot / rope | 1FAA2 |
-| Στεφάνι | rosette / wreath | 1F3F5 |
+| Σαλίγκαρος | cyclone | 1F300 |
 | Μπάλα ποδοσφαίρου | soccer ball | 26BD |
 | Μπάλα τέννις | tennis ball | 1F3BE |
 | Σκάλα | ladder | 1FA9C |
 | Χρονόμετρο | stopwatch | 23F1 |
 | Παπούτσι | running shoe | 1F45F |
-| Στάδιο | stadium | 1F3DF |
+| Όχι | no stencil | E0A4 |
 | Μπουκάλι | glass bottle | E0CB |
 | Αθλητής | runner | 1F3C3 |
 | Στοπ | stop sign | 1F6D1 |
@@ -47,7 +47,7 @@ Emoji used (by OpenMoji hexcode):
 | Τηλεβόας | megaphone | 1F4E3 |
 | Τέρμα | goal net | 1F945 |
 | Σημαία | flag in hole | 26F3 |
-| Γιο-γιο | yo-yo | 1FA80 |
+| Οκέι | ok stencil | E0A3 |
 
 Additional symbols used by the 57-symbol deck (`8-symbols/`):
 
@@ -55,16 +55,16 @@ Additional symbols used by the 57-symbol deck (`8-symbols/`):
 |-------------|---------|---------|
 | Πινγκ-πονγκ | ping pong | 1F3D3 |
 | Μπάντμιντον | badminton | 1F3F8 |
-| Μπέιζμπολ | baseball | 26BE |
-| Αμερικ. φούτμπολ | american football | 1F3C8 |
-| Χόκεϊ χόρτου | field hockey | 1F3D1 |
-| Χόκεϊ πάγου | ice hockey | 1F3D2 |
-| Λακρός | lacrosse | 1F94D |
+| Ποδήλατο | bicycle | 1F6B2 |
+| Κατακόρυφο | man cartwheeling | 1F938-200D-2642-FE0F |
+| Ήλιος | sun | 2600 |
+| Μισοφέγγαρο | crescent moon | 1F319 |
+| Ρολόι | watch | 231Α |
 | Σκι | skis | 1F3BF |
-| Σκέιτμπορντ | skateboard | 1F6F9 |
-| Πατίνι | roller skate | 1F6FC |
+| Αστέρι | star | 2B50 |
+| Πατίνι | kick scooter | 1F6F4 |
 | Παγοπέδιλο | ice skate | 26F8 |
-| Χαρταετός | kite | 1FA81 |
+| Αεροπλάνο | airplane | 2708 |
 | Μπόουλινγκ | bowling | 1F3B3 |
 | Καλάμι ψαρέματος | fishing pole | 1F3A3 |
 | Στολή καράτε | martial arts uniform | 1F94B |
